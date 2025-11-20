@@ -15,6 +15,14 @@ Dr. Fredston is committed to translating science into action. As a postdoc, she 
 ## Current lab members
 
 ::: img-float
+![](images/janaya.jpg){style="float: left; margin: 10px; width: 20%; border-radius: 50%;"}
+:::
+
+**Janaya Bruce** joined the Fredston Lab in 2025 as a PhD student in Ocean Sciences. Before joining the lab, she worked at the Environmental Defense Fund in Austin, TX on science, policy, and community engagement for fisheries and food systems. She also conducted research with the Hawai'i Institute of Marine Biology on coral-symbiont responses to ocean warming and acidification. Janaya holds a BA in Molecular Biology with a certificate in Environmental Science from Princeton University. In the Fredston Lab, she aims to study marine protected areas and social-ecological systems, with a focus on how natural resource management and governance shape ecological and community outcomes. Outside of research, Janaya enjoys running, beach volleyball, backpacking, and climbing.
+
+<br><br>
+
+::: img-float
 ![](images/luis.jpeg){style="float: left; margin: 10px; width: 20%; border-radius: 50%;"}
 :::
 
@@ -45,7 +53,6 @@ Dr. Fredston is committed to translating science into action. As a postdoc, she 
 **Theodore Tran** is a PhD student and a National Science Foundation Graduate Research Fellow interested in investigating questions of ecology among sharks and other large, mobile marine predators. He earned in BS in Marine Biology at San Jose University. He aims to integrate and synthesize interdisciplinary methods to establish factors and trends in migratory patterns and habitat use in light of anthropogenic impacts and climate change.
 
 <br><br>
-
 
 **Dr. Emma Walker** is a postdoctoral scholar in the Fredston Lab working on both developing and applying theory that better resolves the nonlinear dynamics present in ecological systems. The aim of her research is to further understanding of the interplay of fundamental processes and address their consequences for ensuring the sustainability of populations. One of the main projects she is currently working on is using empirical dynamical modelling to discover whether marine heatwaves have had nonlinear consequences on fish species abundances in the bottom trawl surveys of the North Eastern United States. She is also interested in and working on how spatiotemporal variability impacts the size and rates of change of species' populations and ranges. Read more about Emma and her research on her [personal website](https://emmajwalker.wixsite.com/emmawalker) or her [Google Scholar page.](https://scholar.google.com/citations?user=YlVSwjUAAAAJ&hl=en)
 
