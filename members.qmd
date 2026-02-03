@@ -54,10 +54,11 @@ Dr. Fredston is committed to translating science into action. As a postdoc, she 
 
 <br><br>
 
+## Lab alumni
+
+
 ::: img-float
 ![](images/emma.JPG){style="float: left; margin: 10px; width: 20%; border-radius: 50%;"}
 :::
 
-**Dr. Emma Walker** is a postdoctoral scholar in the Fredston Lab working on both developing and applying theory that better resolves the nonlinear dynamics present in ecological systems. The aim of her research is to further understanding of the interplay of fundamental processes and address their consequences for ensuring the sustainability of populations. One of the main projects she is currently working on is using empirical dynamical modelling to discover whether marine heatwaves have had nonlinear consequences on fish species abundances in the bottom trawl surveys of the North Eastern United States. She is also interested in and working on how spatiotemporal variability impacts the size and rates of change of species' populations and ranges. Read more about Emma and her research on her [personal website](https://emmajwalker.wixsite.com/emmawalker) or her [Google Scholar page.](https://scholar.google.com/citations?user=YlVSwjUAAAAJ&hl=en)
-
-## Lab alumni
+**Dr. Emma Walker** was a postdoctoral scholar in the Fredston Lab from 2023-2025 working on both developing and applying theory that better resolves the nonlinear dynamics present in ecological systems. The aim of her research is to further understanding of the interplay of fundamental processes and address their consequences for ensuring the sustainability of populations. One of the main projects she is currently working on is using empirical dynamical modelling to discover whether marine heatwaves have had nonlinear consequences on fish species abundances in the bottom trawl surveys of the North Eastern United States. She is also interested in and working on how spatiotemporal variability impacts the size and rates of change of species' populations and ranges. Read more about Emma and her research on her [personal website](https://emmajwalker.wixsite.com/emmawalker) or her [Google Scholar page.](https://scholar.google.com/citations?user=YlVSwjUAAAAJ&hl=en)
