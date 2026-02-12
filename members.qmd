@@ -56,7 +56,6 @@ Dr. Fredston is committed to translating science into action. As a postdoc, she 
 
 ## Lab alumni
 
-
 ::: img-float
 ![](images/emma.JPG){style="float: left; margin: 10px; width: 20%; border-radius: 50%;"}
 :::
