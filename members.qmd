@@ -38,6 +38,15 @@ Dr. Fredston is committed to translating science into action. As a postdoc, she 
 
 <br><br>
 
+
+::: img-float
+![](images/Sandquist_headshot.jpg){style="float: left; margin: 10px; width: 20%; border-radius: 50%;"}
+:::
+
+**Madison Sandquist** joined the Fredston Lab in 2026 as a PhD student in Ocean Sciences. She recently completed her master’s in marine science from CSUMB and Moss Landing Marine Laboratories. Before graduate school, Madison was a research technician at Florida International University. Madison holds a BS in Marine Science and Biology with a minor in Mathematics from University of Miami. In the Fredston Lab, Madison’s research centers around rockfish reproduction ecology, MPA evaluation through reproduction metrics, and larval dispersal modelling. Outside of research, Madison enjoys surfing, running, and playing in the ocean. Read more of her research on Madison's [Google Scholar page.](https://scholar.google.com/citations?user=yRJVoyUAAAAJ&hl=en&oi=ao)
+
+<br><br>
+
 ::: img-float
 ![](images/jordana.jpg){style="float: left; margin: 10px; width: 20%; border-radius: 50%;"}
 :::
