@@ -10,7 +10,11 @@ title: "Lab members"
 
 **Dr. Alexa Fredston** is a quantitative ecologist and biogeographer and Assistant Professor in the [Department of Ocean Sciences at the University of California, Santa Cruz](https://oceansci.ucsc.edu/). She earned her Ph.D. from the Bren School of Environmental Science and Management at the University of California, Santa Barbara and graduated *summa cum laude* from Princeton University with a B.A. in Ecology and Evolutionary Biology and a certificate in Environmental Studies. Dr. Fredston's publications are listed on her [Google Scholar page](https://scholar.google.com/citations?user=zStqHYEAAAAJ&hl=en&oi=ao). You can contact her for PDFs of any publications, and [download her CV here](files/CV_Fredston.pdf).
 
-Dr. Fredston is committed to translating science into action. As a postdoc, she collaborated with managers and fishermen through the [Mid-Atlantic Fisheries Management Council](http://www.mafmc.org/). Previously, she worked at the [Environmental Defense Fund](https://www.edf.org/) as a High Meadows Fellow. She has served on working groups for [CESAB](https://www.fondationbiodiversite.fr/en/about-the-foundation/le-cesab/), [SNAPP](https://snappartnership.net/), and [NCEAS](https://nceas.ucsb.edu/), aimed at synthesizing ecological information to advance biodiversity conservation and human well-being. Dr. Fredston is on the Steering Committee for [FISHGLOB](https://fishglob.sites.ucsc.edu) and a former board member and Treasurer of the [Society for Open, Reliable, and Transparent Ecology and Evolutionary Biology](https://www.sortee.org/). All of the code for her published research, as well as numerous coding tutorials she developed, can be viewed on [GitHub](https://github.com/afredston). A number of her recorded talks can be found [on this site](https://www.alexafredston.com/about#recorded-talks).
+Dr. Fredston is on the Steering Committee for [FISHGLOB](https://fishglob.sites.ucsc.edu) and a former board member and Treasurer of the [Society for Open, Reliable, and Transparent Ecology and Evolutionary Biology](https://www.sortee.org/). She is a Principal Investigator of the "Point-Break: Species on the Move" working group, funded by the Point Conception Institute and The Nature Conservancy, and [MacroMar](https://macromarnet.github.io/MacroMar/), funded by the Gordon and Betty Moore Foundation. 
+
+Dr. Fredston is committed to translating science into action. As a postdoc, she collaborated with managers and fishermen through the [Mid-Atlantic Fisheries Management Council](http://www.mafmc.org/). Previously, she worked at the [Environmental Defense Fund](https://www.edf.org/) as a High Meadows Fellow. She has also served on working groups for [CESAB](https://www.fondationbiodiversite.fr/en/about-the-foundation/le-cesab/), [SNAPP](https://snappartnership.net/), and [NCEAS](https://nceas.ucsb.edu/), aimed at synthesizing ecological information to advance biodiversity conservation and human well-being. 
+
+All of the code for Dr. Fredston's published research, as well as numerous coding tutorials she developed, can be viewed on [GitHub](https://github.com/afredston). A number of her recorded talks can be found [on this site](https://www.alexafredston.com/about#recorded-talks).
 
 ## Current lab members
 
@@ -27,14 +31,6 @@ Dr. Fredston is committed to translating science into action. As a postdoc, she 
 :::
 
 **Luis Mario Ramirez Cruz** is an undergraduate student and an Ernest F. Hollings Scholar with an interest in Computational Ecology, Data Analysis and Environmental Modelling. In the Fredston Lab, Luis Mario's research focuses on comparing statistical and mechanistic models for rockfish species in California. You can find more information about Luis Mario's research in his [personal website](https://sites.google.com/ucsc.edu/luisramirezportfolio).
-
-<br><br>
-
-::: img-float
-![](images/bella.jpg){style="float: left; margin: 10px; width: 20%; border-radius: 50%;"}
-:::
-
-**Bella Lipsey** joined the Fredston Lab in January of 2025 as a research assistant. She is a third year Marine Biology and Environmental Sciences undergraduate at UC Santa Cruz in the EEB and EPS departments. Her work entails literature review and fundamental data analysis, with advising from Jordana Sevigny and Alexa Fredston. Outside of lab, Bella is a member of the Gamma Phi Beta chapter on campus, and loves to be outside with friends and family.
 
 <br><br>
 
@@ -56,6 +52,14 @@ Dr. Fredston is committed to translating science into action. As a postdoc, she 
 <br><br>
 
 ::: img-float
+![](images/muyang.png){style="float: left; margin: 10px; width: 20%; border-radius: 50%;"}
+:::
+
+**Dr. Muyang Shi** joined the Fredston Lab in 2026 as a postdoctoral scholar. Before joining UC Santa Cruz, he earned his Ph.D. in Statistics from Colorado State University, where he developed Bayesian spatial and multivariate models for environmental extremes, emphasizing flexible modeling of heterogeneous tail dependence and scalable computation for complex environmental data. In the Fredston Lab, he works on the Bayesian Recharge Integrated Movement Model, which connects individual movement and physiology with regional-scale environmental processes. This work integrates archival satellite-tag data, photographs, and novel biogeochemical data products to model the seasonal distribution and phenology of humpback whales and investigate environmental drivers of their foraging and behavior.
+
+<br><br>
+
+::: img-float
 ![](images/theodore.png){style="float: left; margin: 10px; width: 20%; border-radius: 50%;"}
 :::
 
@@ -64,6 +68,16 @@ Dr. Fredston is committed to translating science into action. As a postdoc, she 
 <br><br>
 
 ## Lab alumni
+
+
+::: img-float
+![](images/bella.jpg){style="float: left; margin: 10px; width: 20%; border-radius: 50%;"}
+:::
+
+**Bella Lipsey** was a research assistant in the Fredston Lab in 2025. At the time, she was a third year Marine Biology and Environmental Sciences undergraduate at UC Santa Cruz in the EEB and EPS departments. Her work entailed literature review and fundamental data analysis, with advising from Jordana Sevigny and Alexa Fredston. Outside of lab, Bella was a member of the Gamma Phi Beta chapter on campus, and loves to be outside with friends and family.
+
+<br><br>
+
 
 ::: img-float
 ![](images/emma.JPG){style="float: left; margin: 10px; width: 20%; border-radius: 50%;"}
